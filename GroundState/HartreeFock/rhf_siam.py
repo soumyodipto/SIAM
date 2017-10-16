@@ -1,13 +1,13 @@
 #!/usr/bin/env python
-import math
-import time
+#import math
+#import time
 import numpy as N
 import numpy.linalg
-import scipy.linalg
-import scipy.sparse
-import scipy.sparse.linalg
-import matplotlib.pyplot as plt
-import scipy.optimize
+#import scipy.linalg
+#import scipy.sparse
+#import scipy.sparse.linalg
+#import matplotlib.pyplot as plt
+#import scipy.optimize
 
 
 #Returns rhf convergence, rhf energy
