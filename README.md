@@ -1,5 +1,5 @@
 # SIAM
-Exact and approximate electronic structure calculations of the single-impurity Anderson model (SIAM)
+Exact and approximate electronic structure calculations of the single-impurity Anderson model (SIAM) used as a solver for model high-T superconducting materials
 
 This module evaluates ground-state and dynamic properties of SIAM with numerically exact methods (finite-systems) and the Embedding technique discussed in Phys. Rev. B 95, 155111.
 
